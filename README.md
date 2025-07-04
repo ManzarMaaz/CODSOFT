@@ -50,13 +50,8 @@ Generates secure, randomized passwords with user-defined length.
 
 ---
 
-## 📽 Demo Videos
-Videos for each project are available on my [LinkedIn](https://www.linkedin.com/in/yourprofile) (posted weekly).
-
----
-
 ## 📬 Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](www.linkedin.com/in/mohammed-manzar-maaz)  
 📁 [CodSoft Website](https://www.codsoft.in)  
 📧 themmm2003@gmail.com
 
