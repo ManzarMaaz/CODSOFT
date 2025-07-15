@@ -1,4 +1,4 @@
-# 👨‍💻 CodSoft Python Internship Projects – July 2025
+# CodSoft Python Internship Projects – July 2025
 
 This repository contains all the tasks and projects I’ve completed during my **Python Programming Internship** with **CodSoft** (July Batch – B37).
 
@@ -57,6 +57,6 @@ Generates secure, randomized passwords with user-defined length.
 
 ---
 
-> This internship has helped me improve my logic, code quality, and project-building confidence. Thank you CodSoft! 🙏
+> This internship has helped me improve my logic, code quality, and project-building confidence. Thank you CodSoft!
 
 #codsoft #python #internship #studentdeveloper
