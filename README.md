@@ -8,55 +8,49 @@ This repository contains all the tasks and projects I’ve completed during my *
 - **Duration**: 01 July 2025 – 31 July 2025
 - **Company**: CodSoft (MSME Registered)
 
----
+# 💻 CODSOFT Python Internship Projects
 
-## 📌 Project List
+This repository contains all the tasks completed during my **Python Programming Internship** at **CodSoft (July 2025)**.
 
-### 🚀 Task 1: To-Do List App (CLI)
-A simple terminal-based task manager that lets users:
-- Add, view, and delete tasks
-- See all tasks in numbered list format
+## 📌 Overview
 
-📂 Folder: `Task_1_ToDo_List/`  
-📄 File: `todo.py`
+Throughout this internship, I explored core Python concepts by building interactive, real-world applications.  
+Each task showcases a unique project designed to improve logical thinking and coding skills.
 
----
+## 📁 Project Structure
 
-### 🧮 Task 2: Calculator
-A command-line calculator that performs:
-- Addition, subtraction, multiplication, division
-- Handles invalid input and division by zero
+| Task No. | Project Name               | Folder Name                                                       | Status     |
+|----------|----------------------------|-------------------------------------------------------------------|------------|
+| 1        | To-Do List App             | [`Task_1_ToDo_List`](./Task_1_ToDo_List)                         | ✅ Completed |
+| 2        | Calculator (GUI)           | [`Task_2_Calculator`](./Task_2_Calculator)                       | ✅ Completed |
+| 3        | Password Generator         | [`Task_3_Password_Generator`](./Task_3_Password_Generator)       | ✅ Completed |
+| 4        | Rock, Paper & Scissors Game| [`Task_3_Rock,Paper&Scissors`](./Task_3_Rock%2CPaper%26Scissors) | ✅ Completed |
 
-📂 Folder: `Task_2_Calculator/`  
-📄 File: `calculator.py`
+> ℹ️ Note: The task numbering follows the official internship order and may include multiple Task_3 folders as per assignment structure.
 
----
+## 🛠️ Tech Stack
 
-### 🔐 Task 3: Password Generator
-Generates secure, randomized passwords with user-defined length.
+- Python 3
+- Tkinter (GUI)
+- Random module
+- OS & Basic File Handling
+- VS Code
+- Git & GitHub
 
-📂 Folder: `Task_3_Password_Generator/`  
-📄 File: `password_gen.py`
+## 📅 Internship Timeline
 
----
+**Start Date:** July 1, 2025  
+**End Date:** July 31, 2025
 
-## 🧠 Skills Used
-- Python basics
-- Conditionals, loops
-- Functions
-- File handling
-- User input and validation
-- Random & string libraries
+## 🙋‍♂️ Author
 
----
-
-## 📬 Connect
-🔗 [LinkedIn](www.linkedin.com/in/mohammed-manzar-maaz)  
-📁 [CodSoft Website](https://www.codsoft.in)  
-📧 themmm2003@gmail.com
+**Manzar Maaz**  
+- 🔗 [GitHub](https://github.com/ManzarMaaz)  
+- 💼 [LinkedIn](https://linkedin.com/in/manzarmaaz)
 
 ---
 
-> This internship has helped me improve my logic, code quality, and project-building confidence. Thank you CodSoft!
+⭐ If you found this project helpful or inspiring, feel free to star this repository!
+
 
 #codsoft #python #internship #studentdeveloper
